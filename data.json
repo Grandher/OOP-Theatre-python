@@ -1,0 +1,93 @@
+{
+  "actor": [
+    {
+      "code": 1,
+      "surname": "Козловский",
+      "name": "Данила",
+      "secname": "Викторович",
+      "rank": "Заслуженный артист РФ",
+      "experience": 16
+    },
+    {
+      "code": 2,
+      "surname": "Петров",
+      "name": "Александр",
+      "secname": "Сергеевич",
+      "rank": "лауреат Золотого глобуса",
+      "experience": 12
+    },
+    {
+      "code": 3,
+      "surname": "Безруков",
+      "name": "Сергей",
+      "secname": "Андреевич",
+      "rank": "Народный артист РФ",
+      "experience": 31
+    },
+    {
+      "code": 4,
+      "surname": "Хабенский",
+      "name": "Константин",
+      "secname": "Владимирович",
+      "rank": "Заслуженный артист РФ",
+      "experience": 29
+    }
+  ],
+  "spectacle": [
+    {
+      "code": 1,
+      "title": "Казанова",
+      "year": 2021,
+      "budget": 1.75
+    },
+    {
+      "code": 2,
+      "title": "Четвёртый стул",
+      "year": 2020,
+      "budget": 0.4
+    },
+    {
+      "code": 3,
+      "title": "Лев зимой",
+      "year": 2022,
+      "budget": 1.2
+    }
+  ],
+  "occupation": [
+    {
+      "code": 1,
+      "role": "Джакомо Казанова",
+      "contract_cost": 275,
+      "actor": 3,
+      "spectacle": 1
+    },
+    {
+      "code": 2,
+      "role": "Стул",
+      "contract_cost": 40,
+      "actor": 4,
+      "spectacle": 2
+    },
+    {
+      "code": 3,
+      "role": "Ломоносов",
+      "contract_cost": 350,
+      "actor": 2,
+      "spectacle": 1
+    },
+    {
+      "code": 4,
+      "role": "Дед мороз",
+      "contract_cost": 0.2,
+      "actor": 1,
+      "spectacle": 3
+    },
+    {
+      "code": 5,
+      "role": "Лев",
+      "contract_cost": 0.15,
+      "actor": 2,
+      "spectacle": 3
+    }
+  ]
+}
